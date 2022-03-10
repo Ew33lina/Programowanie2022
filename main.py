@@ -269,6 +269,16 @@
 
 # 2. Twoim zadaniem jest przygotowanie uniwersalnego i profesjonalnego życiorysu, złożonego z 5-ciu zdań, które wyświetlisz na ekranie
 # Użytkownik wpisuje tylko swoje imie, nazwisko, wiek, zawód, miejsce urodzenia, zainteresowania i ... życiorys jest gotowy.
+
+# imie = str(input("imie "))
+# nazwisko = str(input("naziwsko "))
+# wiek = int(input("wiek "))
+# zawód = input("Kim jesteś z zawodu? ")
+# urodzenie = str(input("data urodzenia: "))
+# miejsce = str(input("miejsce urodzenia: "))
+# zainteresowania = str(input("zainteresowania: "))
+# print("Cześć jestem {} {}. Mam {} lat. Urodziłam się {} w {}. Z zawodu jestem {}. Interesuję się {}.".format(imie,nazwisko,wiek,urodzenie,miejsce,zawód,zainteresowania))
+
 # 3. Przygotuj dla dziecka, które uczy się czytać zestaw sylab do nauki, ale zrób to inteligentnie tj.
 # dziecko wpisuje na klawiaturze 1 spółgłoskę a Ty dodajesz do niej odpowiednie samogłoski i wyświetlasz całość na ekranie
 # 4. Użytkownik podaje imie, sprawdź czy to imie to Janusz lub Grażyna
